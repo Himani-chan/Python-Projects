@@ -3,10 +3,12 @@ But, we will mainly use data regarding Uber ride and use Python to analyse the d
 
 We wish to answer the below following question:
 
-1) What was the Most frequent route taken by Uber Riders?
-2) For which purpose was Uber Rides booked the most, based on Miles travelled?
-3) For which category Uber Rides were booked the most?
-4) At what time people book cab the most?
-5) In which month people book Uber rides more and less frequently?
-6) On which days of the weeks uber rides were booked the most?
-7) For how many miles people usually books Uber for?
+-- What was the Most frequent route taken by Uber Riders?
+-- For which purpose was Uber Rides booked the most, based on Miles travelled?
+-- For which category Uber Rides were booked the most?
+-- At what time people book cab the most?
+-- In which month people book Uber rides more and less frequently?
+-- On which days of the weeks uber rides were booked the most?
+-- For how many miles people usually books Uber for?
+
+A Powerpoint Presentation is Prepared along with the EDA notebook...
