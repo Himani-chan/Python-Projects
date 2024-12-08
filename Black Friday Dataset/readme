@@ -1,1 +1,20 @@
+Project Title: Black Friday Data Processing and Preprocessing
 
+Description:
+
+This project focuses on the analysis and preprocessing of the Black Friday dataset to prepare it for predictive modeling. Key steps include:
+
+1) Data Integration: Combined training and test datasets for a unified analysis.
+2) Feature Engineering: Created and transformed features (e.g., mapping categorical data to integers, generating dummy variables).
+3) Missing Value Handling: Addressed missing values using techniques like mode and mean imputation.
+4) Descriptive Statistics: Explored the data using summary statistics and unique value counts for better insights.
+5) Data Cleaning: Dropped unnecessary columns and renamed features for consistency.
+6) Label Encoding: Converted categorical variables to numerical using label encoding.
+7) Correlation Analysis: Assessed relationships between features using correlation matrices.
+8) Data Splitting and Scaling: Prepared data for machine learning by splitting into training and testing sets and scaling numerical features (not implemented in the final code).
+
+Key Highlights:
+
+1) Demonstrated robust preprocessing techniques for real-world datasets.
+2) Combined categorical and numerical transformations to clean the data.
+3) Leveraged Python's Pandas and Scikit-learn libraries for effective data handling and feature preparation.
