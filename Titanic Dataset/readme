@@ -1,1 +1,16 @@
+Project Title: Titanic Data Manipulation with Pandas
 
+Description:
+
+This project demonstrates data manipulation and exploratory analysis techniques on the Titanic dataset using Python and the Pandas library. Key steps include:
+
+ 1) Cleaning and preprocessing the dataset (handling missing values, feature transformation, etc.).
+ 2) Generating descriptive statistics to gain insights into passenger demographics, survival rates, and other key metrics.
+ 3) Visualizing data trends and relationships using Python libraries.
+ 4) Leveraging Pandas for advanced filtering, grouping, and aggregation to uncover meaningful patterns.
+
+Key Learnings:
+
+ 1) Practical use of Pandas for real-world data handling tasks.
+ 2) Strategies for data cleaning and preprocessing in machine learning workflows.
+ 3) Exploratory data analysis (EDA) to extract actionable insights
